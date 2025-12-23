@@ -15,5 +15,3 @@ This repository contains a **Python-based automation framework** built using **P
 
 ---
 
-## 📂 Project Structure
-
